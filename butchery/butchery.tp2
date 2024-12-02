@@ -41,11 +41,18 @@ LANGUAGE ~Russian (translation by yota13)~
          ~weidu_external/lang/butchery/russian/butchery.tra~
          ~weidu_external/lang/butchery/russian/d9firorc.tra~
 
-LANGUAGE ~Spanish~
+LANGUAGE ~Spanish (translation by alaisFcZ)~
          ~spanish~
          ~butchery/lang/spanish/setup.tra~
          ~weidu_external/lang/butchery/spanish/butchery.tra~
          ~weidu_external/lang/butchery/spanish/d9firorc.tra~
+
+LANGUAGE ~Simplified Chinese (translation by huma628)~
+         ~schinese~
+         ~butchery/lang/schinese/setup.tra~
+         ~weidu_external/lang/butchery/schinese/butchery.tra~
+//         ~butchery/lang/schinese/d9cutta.tra~  // DEPRECATED as of v3.2
+         ~weidu_external/lang/butchery/schinese/d9firorc.tra~
 
 
 /* ========================================================================= *

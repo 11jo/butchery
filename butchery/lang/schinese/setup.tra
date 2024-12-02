@@ -1,0 +1,50 @@
+/* -------------------- *
+ *  Installer messages  *
+ * -------------------- */
+
+@1 = ~这个模组需要安装ToB、BGT、BG2:EE或EET中。~ 
+@2 = ~这个组件需要安装格罗姆夫和布尔里诺斯在费尔克拉格藏身处入口的遭遇组件。~ 
+@3 = ~这个组件需要安装DrAzTiK的生物组件。~ 
+@4 = ~这个组件在内容上与Baldur's Gate II中的Angelo NPC不兼容。~
+
+/* ------------ *
+Components *
+------------ */ 
+@10 = ~重新制作的DrAzTiK对抗塔佐克和迪格达格酋长的战斗[在Stratagems前安装]~ 
+@11 = ~重新平衡一些通用生物[在Stratagems前安装]~ 
+@12 = ~重新平衡塔佐克和迪格达格酋长[在Stratagems前安装]~
+
+@20 = ~格罗姆夫和布尔里诺斯在费尔克拉格藏身处入口的遭遇[在Stratagems前安装]~
+@21 = ~格罗姆夫和布尔里诺斯在布林罗的遭遇[在Stratagems前安装]~
+@22 = ~格罗姆夫和布尔里诺斯在地下黑暗的遭遇[在Stratagems前安装]~
+
+@30 = ~在深渊中重新制作的对抗幽灵沙洛佛克的战斗[在Stratagems前安装]~
+//@31 = ~Move Samia group into Firkraag's Entrance (BETA and bugged) [install before or after Stratagems]~
+@32 = ~在一些没有战斗歌曲的区域添加战斗歌曲[安装前或安装后请安装Stratagems]~
+
+@40 = ~DrAzTiK的生物[在Stratagems前安装，一些后续组件需要它]~
+@41 = ~在艾瑞尼卡斯地牢中的屠杀（矮人）[安装后请安装Stratagems]~
+//@42 = ~Butchery for high and low reputation traps (BETA, BUGGED, NOT FINISHED) [install after Stratagems]~
+@43 = ~在泰斯尔森林中的屠杀（动物和德鲁伊）[安装后请安装Stratagems]~
+@44 = ~在位面领域的屠杀（恶魔生物）[安装后请安装Stratagems]~
+@45 = ~在禁魔监狱的3场屠杀（魔像、吸血鬼和食人魔）[安装后请安装Stratagems]~
+@46 = ~在德阿尼斯要塞外的屠杀（食人魔）[安装后请安装Stratagems]~
+@47 = ~在风矛之丘的屠杀（兽人）[安装后请安装Stratagems]~
+@48 = ~在乌玛丘陵的屠杀（狼）[安装后请安装Stratagems]~
+@49 = ~在崔米镇和观察者堡垒外的2场屠杀（动物）[安装后请安装Stratagems]~
+@50 = ~在索丹尼斯拉和观察者堡垒的2场魔像屠杀（疯狂卢姆的机器楼层）[安装后请安装Stratagems]~
+@51 = ~重新制作的雅加苏拉屠杀[安装后请安装Ascension和Stratagems]~
+@52 = ~在德鲁伊林地区域的屠杀（动物和德鲁伊）[安装后请安装Stratagems]~
+@53 = ~在眼魔藏身处的屠杀（狂热者）[安装后请安装Stratagems]~
+@54 = ~在芭狄藏身处的屠杀（第2章，在地下黑暗之前）- 吸血鬼[安装后请安装Stratagems]~
+@55 = ~在芭狄藏身处的屠杀（第6章，在地下黑暗之后）- 吸血鬼[安装后请安装Stratagems]~
+@56 = ~在鲨化鱼人城和观察者堡垒的2场鲨化鱼人屠杀（吉斯洋基人营地）[安装后请安装Stratagems]~
+@57 = ~在派娜藏身处入口、神庙城（不可见之眼情节）、观察者堡垒一楼（祭坛层）和仙黛藏身处外区域的4场蜘蛛屠杀[安装后请安装Stratagems]~
+@58 = ~在阿斯卡特拉下层墓穴、阴影神殿、禁魔监狱、观察者堡垒（最后封印）、以及妮阿莉藏身处的2场骷髅屠杀[安装后请安装Stratagems]~
+
+@80 = ~游戏中分布的更多敌人[安装后请安装Stratagems]~ // Turns BG2 into a Dungeon Crawler!!!
+@90 = ~外观组件[安装前或安装后请安装Stratagems]~
+
+@91 = ~正在修补生物文件...~
+@95 = ~%SOURCE_FILE%: 未找到d9yaold1.baf区块。跳过...~
+@96 = ~%SOURCE_FILE%: 未找到d9yaoldx.baf区块。跳过...~
