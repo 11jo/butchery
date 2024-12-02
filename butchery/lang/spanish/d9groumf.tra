@@ -1,0 +1,42 @@
+// Groumf
+// ------
+@400 = ~¡Hahaaa! Aquí está el grupo de aventureros que Firkraag quiere que eliminemos. ¡Por la furia de Tempus, me los imaginaba mucho más impresionantes que esto!~
+@401 = ~¡Cálmate, Bourrinos! No olvides que la cortesía es lo que impone respeto~
+@402 = ~Si Firkraak os contrató para vigilar la entrada de su mazmorra, debéis ser criaturas débiles que despacharé en dos sacudidas de cola de cordero. Definitivamente sólo hay criaturas patéticas en toda esta zona. Pero, ¿qué debo hacer para enfrentarme a un encuentro decente? No estoy pidiendo la luna, pero aun así, ¿para qué sirve todo mi equipo mágico si es para acabar con goblins debiluchos, os pregunto?~
+@403 = ~Hmmm... Bueno, si quieres saberlo, debo admitir que mi tribu y yo no sabemos exactamente qué hacemos aquí... Tengo la impresión de que una poderosa magia nos ha creado aquí recientemente para satisfacer vuestro deseo y ralentizar vuestro avance todo lo posible, y no creo que sea obra de este Firkraag.~
+@404 = ~Sin embargo, sé que al final de nuestro diálogo, nos volveremos inevitablemente hostiles hacia vuestro grupo, con el que simpatizo bastante.~
+@405 = ~Parece que mi función era esconderme aquí y llamaros a la vista antes de entrar en hostilidades, nada más que rutina.~
+@406 = ~Pensé que había algo raro. Además, para ser un medio orco, pareces demasiado inteligente y culto, ¡sin ánimo de ofender!~
+@407 = ~Por favor, perdonen a mi fiel Bourrinos, es un alumno superdotado pero un poco impulsivo.... No quiero decir que siempre sea un buen chico, pero es muy trabajador. Y no adora a Gruumsh, lo cual es una buena señal.~
+@408 = ~Para responder a tu pregunta, tengo la impresión de que quien me envió aquí se preocupó de darme una generosa bonificación de inteligencia y, a decir verdad, le estoy bastante agradecido... Al principio pensé que era para luchar contra los ilícidos, pero quizá haya otra razón... Probablemente me convierta en mago de clase dual en un futuro próximo, pero en realidad, no creo que eso sea posible, ya que sólo los humanos tienen este talento; lo cual es profundamente injusto, ¿no te parece?.~
+@409 = ~Y sí, es un gran problema. Pero algunas leyendas hablan de la existencia en una 3ª dimensión de algunos semi-orcos, paladines/bardos o magos/bufones, que vivirían felices, en armonía y tendrían muchos hijos. Gorion me enseñó esto durante mis años de juventud en Candelero, pero a decir verdad, nunca lo creí seriamente. En cuanto a Imoen, siempre ha soñado con ver este "espectáculo" algún día...~
+@410 = ~Debo admitir que a mí también me cuesta creerlo. Esto va a contracorriente, en mi opinión. Ya me siento incómodo con una puntuación de inteligencia tan alta... Por otra parte, ¡soy tan feo! No es fácil soportarlo cada día. Intento ignorarlo en la medida de lo posible, pero la realidad a menudo me alcanza violentamente cuando veo la sombra de mi perfil en la pared del jardín...~
+@411 = ~¡Ya sabes, la belleza viene del corazón!~
+@412 = ~Ciertamente, pero aún así... ~
+@413 = ~Dicho esto, creo que ya es hora de abrir las hostilidades, ya que no hay otra alternativa posible. Ya he revisado el scroll.d varias veces, ya sabéis (la codificación es bastante de vieja escuela, por cierto...). Así que no tengáis miedo de luchar duro y dar lo mejor de vosotros mismos. Probablemente resucitaré si muero; y, quién sabe, quizá nuestros caminos vuelvan a cruzarse en alguna gesta, que espero que sea un poco más seria que esta...~
+@414 = ~De acuerdo. ¡Fue un gran placer conocerte, Groumf!~
+@415 = ~Por tu propia seguridad, te aconsejo que resuelvas este misterio lo antes posible. Me siento obligado a luchar contra vosotros hasta la muerte, aunque me alegro de que esto esté en perfecta armonía con mi naturaleza caótica y destructiva. ¿No es así, Bourrinos?~
+@416 = ~Por cierto, ¿has instalado el excelente mod Stratagems de Sir David Wallace, y en particular el componente que mejora la inteligencia artificial de criaturas miserables como yo?~
+@417 = ~Uh... Sí, creo.~
+@418 = ~Uh... No, no lo creo, pero ¿de qué estás hablando?~
+@419 = ~Entonces el combate te resultará probablemente un poco más fácil. Sin embargo, no esperéis encontrar objetos mágicos ni grandes cantidades de oro en nuestros desafortunados cadáveres: nuestro "creador" ha insistido, obviamente, en evitar cualquier tipo de "juego de poder" durante este encuentro. No obstante, me atrevo a esperar que estemos a la altura del desafío....~
+@420 = ~¡¡¡ATACAD, HERMANOS, Y NO TENGÁIS PIEDAD!!! ¡No hay piedad para los cobardes y traidores! ¡Aquellos que se retiren serán masacrados! (¡Hey, eso es bueno!)~
+@421 = ~Entonces el combate será más difícil para ti. Y tampoco esperéis encontrar objetos mágicos o grandes cantidades de oro en nuestros desafortunados cadáveres: nuestro "creador" ha insistido, obviamente, para evitar cualquier tipo de juegos de poder durante este encuentro. Espero que os lo hagamos pasar mal. En el peor de los casos, siempre podéis recargar el juego, perros astutos...~
+@422 = ~(suspira...)~
+
+
+// Bourrinos
+// ---------
+@600 = ~Lucha!~ [d9baraa] // same as @212 but UPPERCASED - "BASTON !" in French is a slang word for rumble.
+
+
+// Script
+// ------
+@450 = ~traed Refuerzos!~
+@451 = ~¡Bourrinos ha muerto! ¡Salid!
+de tu escondite y venga a tu hermano!~
+
+
+// Seem to be unused...
+// --------------------
+//@452 = ~gulp!~

@@ -1,0 +1,43 @@
+// Groumf
+// ------
+@2101 = ~¿Hum? Aquí hay viejos conocidos.~
+@2102 = ~Cálmate Bourrinos, compórtate como un verdadero caballero. Pelear primero y preguntar después no es una opción aquí.~
+@2103 = ~¿Vieron este duelo, amigos míos? No hay necesidad de sentir lástima por ti mismo. ¡En esta ciudad, es tiempo de fuerza, no de esperanza!~
+@2104 = ~¿Grumf y Bourrinos? ¡Pero deberías estar muerto!~
+@2105 = ~¡Maldición! ¡Pensé que ambos estaban en el cielo de los semi-orcos!~
+@2106 = ~¡Felicidades! Los dos habéis vuelto de entre los muertos.~
+@2107 = ~Mil veces pensamos que íbamos a morir, ¡pero volvimos del infierno para poder matar a nuestros enemigos! Y Tempus siempre da otra oportunidad a sus guerreros más valientes.~
+@2108 = ~Pero no voy a enseñarte eso. ¿Cuántas veces han muerto tú y tus compañeros de equipo y han vuelto de entre los muertos, retorciéndose de salud?~
+@2109 = ~¿Qué demonios haces en esta isla? ¡He tenido que gastar una cantidad fenomenal de oro y enfrentarme a mil peligros para llegar hasta aquí!~
+@2110 = ~¿¡Banda de imbéciles!? ¿Cómo demonios has acabado aquí?~	// there not on Earth
+@2111 = ~Ese, amigos míos, es nuestro pequeño secreto...~
+@2112 = ~Mi fiel Bourrinos y yo planeamos salir pronto de aventura. Un grupo de intrépidos aventureros nos espera para ir a luchar en honor de Tempus, el gran Señor de las Batallas.~
+@2113 = ~Según nuestra información, y por extraño que parezca, habría un pasadizo a la Infraoscuridad en algún lugar de esta isla. En mi humilde opinión, probablemente se encuentre en este manicomio.~
+@2114 = ~¿Has oído hablar alguna vez de la Infraoscuridad? Drow, ilícidos , Contempladores y sajuaguines: razas extremas, feroces y despiadadas, que exterminan a todo el que se interpone en su camino.~
+@2115 = ~¡Esto es muy emocionante! ¿Qué mejor lugar para cruzar espadas y encontrar una muerte digna de un gran guerrero, os pregunto?~
+@2116 = ~Por supuesto!~
+@2117 = ~Eh, sí...~
+@2118 = ~Estoy de acuerdo contigo en un 98,5%!~
+@2119 = ~Morirse en la cama también está bien, ¿sabes?~
+@2120 = ~¡Realmente eres un completo idiota!~
+@2121 = ~Actualmente, hemos sido contratados como guardaespaldas personales de la Dama Galvena, la señora dirige.~
+@2122 = ~Es una mujer cruel y peligrosa, pero paga generosamente a quienes la sirven.~
+@2123 = ~Qué esperabas, uno tiene que vivir...~
+@2124 = ~Y además, tenemos que ahorrar un poco más de dinero antes de irnos de aventuras, ¿no, Bourrinos?~
+@2125 = ~Ya ves, incluso Bourrinos está de acuerdo conmigo.~
+@2126 = ~¿Hablas en serio? La última vez no entendí ni una sola palabra de lo que decías...~
+@2127 = ~Es muy grave, por supuesto. ¿Por qué? ¿Hay algo que te parezca raro?~
+@2128 = ~En cualquier caso, espero que no tengas que vértelas con la dama Galvena. Estamos obligados a su servicio por un contrato formal, y nos veríamos obligados a atacarte si hicieras algo que la perjudicara.~
+@2129 = ~Me han dado personalmente carta blanca para reorganizar su seguridad. Antes de que llegáramos, un enano del bosque del norte con una sola pierna podría haber llegado hasta la Dama Galvena sin ningún problema. ¿En qué se está convirtiendo el mundo?~
+@2130 = ~Por cierto, deberíamos volver a nuestro puesto, nuestro descanso para comer ha terminado. La dama Galvena es muy estricta con el tiempo, y prefiero enfrentarme a la ira de Tempus que sufrir sus amonestaciones.~
+@2131 = ~Hasta pronto, amigos. Quizás nos volvamos a ver alguna vez. No es algo tan trivial como la muerte lo que nos detendrá de todos modos.~
+@2132 = ~Sinceramente, ¡eso espero!~
+@2133 = ~¡Entonces nos vemos dentro de treinta años!~
+@2134 = ~¡Prefiero besar a un demonio anoréxico que volver a verte!~
+@2135 = ~Esperemos que ese día luchemos juntos, codo con codo, y por qué no en una lucha sin cuartel entre el bien y el mal, ¡hasta la muerte!~
+@2136 = ~Ten paciencia, Bourrinos. Algo me dice que pronto lucharemos... ¡Oh Tempus, gran Señor de la Guerra, no darás tregua a tus humildes siervos!~
+
+// Bourrinos
+// ---------
+@2150 = ~¡Lucha!~ [d9baraa] // same as @212 - "Baston!" in French is a slang word for rumble.
+@2151 = ~¡Haa lala!~ [d9bara1]

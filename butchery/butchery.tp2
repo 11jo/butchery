@@ -41,6 +41,12 @@ LANGUAGE ~Russian (translation by yota13)~
          ~weidu_external/lang/butchery/russian/butchery.tra~
          ~weidu_external/lang/butchery/russian/d9firorc.tra~
 
+LANGUAGE ~Spanish~
+         ~spanish~
+         ~butchery/lang/spanish/setup.tra~
+         ~weidu_external/lang/butchery/spanish/butchery.tra~
+         ~weidu_external/lang/butchery/spanish/d9firorc.tra~
+
 
 /* ========================================================================= *
  *    Firkraag's Lair: DrAzTiK's revisited fight against Tazok and DigDag    *

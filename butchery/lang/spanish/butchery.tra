@@ -1,0 +1,175 @@
+// Creatures names
+// ---------------
+@101 = ~Ogro Berserker~ // = BG2 strrefs #17561 and 17562
+@102 = ~Ogro Barbaro~
+//@26  = ~Tenardiar~	DEPRECATED
+@104 = ~Groumf~
+@105 = ~Bourrinos~
+@106 = ~Barbaro~      // = BG2 strrefs #45859 and 45863
+/* DEPRECATED ==> DO NOT TRANSLATE
+@10023  = ~Barbaro~
+@11100  = ~Adeptos Barbaros~
+@11200  = ~Sacerdote de Silvanus~
+*/
+
+
+// Creatures soundsets
+// -------------------
+@201 = ~¡Insectos insignificantes!~ [d9groua]
+@202 = ~Por la cólera de Tempus!~ [d9grou8]
+@203 = ~¡Por la fuerza de Hutgar!~ [d9grou9]
+@204 = ~Ha Ha Ha !~ [d9groug]
+@205 = ~¿Que?!~ [d9grouf]
+@206 = ~Más sangre!~ [d9grou0]
+
+@211 = ~¡Muere ahora!~ [d9bara9]
+@212 = ~¡Luchad!~ [d9baraa] // "Baston!" in French is a slang word for rumble.
+@213 = ~¡Sí!~ [d9barag]
+@214 = ~¿Que?!~ [d9barah]
+
+
+// Creatures scripts
+// -----------------
+@301 = ~*bebe una Poción de Absorción*~    // former @454
+@302 = ~*bebe una poción de poder*~         // former @456
+@303 = ~*bebe una poción de agilidad*~       // former @457
+@304 = ~*bebe una poción de defensa*~       // former @453
+//@455 = ~*bebe una Poción de Forma de Piedra*~  // DEPRECATED ==> DO NOT TRANSLATE
+//@452 = ~*gulp*~                           // DEPRECATED ==> DO NOT TRANSLATE
+
+// d9ar1203.baf
+// ------------
+@321 = ~Una poderosa barrera mágica aparece de repente, ahora es imposible volver atrás.~ // former @480
+@322 = ~DigDag, el horrible líder orco, ha muerto y su horda pronto dejará de luchar. Sin embargo, tienes la sensación de que esto no va a acabar tan fácilmente y debes prepararte para el desafío final~ // former @460
+@323 = ~Esta vez, Tazok se ha reunido definitivamente con Sarevok en el infierno y sus secuaces no te molestarán durante mucho tiempo.~ // former @461
+
+// d9cutta1.baf
+// ------------
+@331 = ~¡Jajaja! Estos tontos han caído en nuestra trampa!~                    // former @470
+@333 = ~Atención!~                                                        // former @472
+@334 = ~¡Maldita sea, eres tan feo!~                                             // former @473
+@335 = ~¡Sí, señor!~                                                         // former @474
+@336 = ~Mi Señor, la barrera mágica está funcionando ahora, los intrusos están atrapados.~ // former @475
+@337 = ~¡Buen trabajo! El maestro estará encantado y yo tendré mi venganza~ // former @476
+/* DEPRECATED ==> DO NOT TRANSLATE
+@477 = ~J'vais vous écraser 
+le nez !~
+@479 = ~Soignez ces deux imbéciles. Ils devront racheter leur incompétence auprès du maître.~
+*/
+
+// d9groum8.baf : Meeting with Groumf and Bourrinos in the Underdark
+// -----------------------------------------------------------------
+@2201 = ~¡Más drow!
+¡Ataquen! ¡Y sin piedad!~
+
+
+/* ------------------------------------------------ *
+ *  Revisited fight against Wraith Sarevok in Hell  *
+ * ------------------------------------------------ */
+@3000 = ~Angelo~              // = BG2 strrefs #7161 and 7692
+@3001 = ~Semaj~               // = BG2 strrefs #19592 and 19593
+@3002 = ~Tamoko~              // = BG2 strrefs #11910 and 19935
+//@3003 = ~Tazok~             // DEPRECATED ==> DO NOT TRANSLATE
+@3004 = ~Mulahey~             // = BG2 strrefs #11918 and 2797
+@3007 = ~Diarmid~             // = BG2 strrefs #11023 and 11024
+@3008 = ~Cythandria~          // = BG2 strrefs #20435 and 20436
+@3009 = ~Krystin~             // = BG2 strrefs #12250 and 12295
+@3010 = ~Slythe~              // = BG2 strrefs #12249 and 12294
+@3011 = ~Gardush~             // = BG2 strrefs #1766 and 1767
+@3013 = ~Aasim~               // = BG2 strrefs #17817 and 17818
+//@14584 = ~Diyab~            // = BG2 strrefs #17820 and 17821 DEPRECATED ==> DO NOT TRANSLATE
+@3015 = ~Zhalimar Cloudwulfe~ // = BG2 strrefs #17828 and 17829
+@3016 = ~Davaeorn~            // = BG2 strrefs #12241 and 12286
+
+// d9sarevo.baf
+// ------------
+@3050 = ~¡A mí, mis seguidores!~
+@3051 = ~¡Jajaja! ¡Todavía no ha terminado!~
+//@14552 = ~Semaj ! Noooon !~  // unused ==> DO NOT TRANSLATE
+//@14553 = ~Tamoko ! Noooon !~ // unused ==> DO NOT TRANSLATE
+//@14554 = ~Tazok ! Noooon !~  // unused ==> DO NOT TRANSLATE
+@3056 = ~¡NO! ¡Mira lo que has hecho! ¡MUERE!~
+@3057 = ~Ahora que sus secuaces están derrotados, Sarevok es vulnerable a tus ataques.~
+
+
+/* ------------------- *
+ *  DrAzTiK creatures  *
+ * ------------------- */
+@4000 = ~Enano Berseker novato~
+@4001 = ~Guerrero enano novato~
+@4002 = ~Berseker enano experimentado~
+@4003 = ~Guerrero enano de élite~
+@4004 = ~Sacerdote enano novato~
+@4005 = ~Sacerdote Enano Experimentado~
+
+@4010 = ~Esqueleto Clérigo novato~
+@4011 = ~Mago esqueleto novato~
+@4012 = ~Clérigo esqueleto experimentado~
+@4013 = ~Mago esqueleto experimentado~
+@4014 = ~Mago vampiro~ // Used by components #55 and #58
+@4015 = ~Clérigo esqueleto de élite~
+@4016 = ~Mago esqueleto de élite~
+
+
+/* --------------------------------- *
+ *  Butchery in Umar Hills - Wolves  *
+ * --------------------------------- */
+@4800 = ~¡Sangre, sangre para la manada!~
+
+
+/* ---------------------------------- *
+ *  Butchery of Yaga-Shura revisited  *
+ * ---------------------------------- */
+@5010 = ~¡Los enemigos están en serios problemas y Yaga-Shura debería aparecer pronto!~
+
+
+/* ------------------------------------------------------- *
+ *  Butchery in the Druid Grove area (Animals and Druids)  *
+ * ------------------------------------------------------- */
+@5201 = ~Explorador sombrío~
+//@5202 = ~Rôdeur de l'ombre d'élite~ // unused ==> DO NOT TRANSLATE
+@5203 = ~Druida de las Sombras novato~
+@5204 = ~Druida de las Sombras~                // = strref #43845 (BG2EE)
+@5205 = ~Druida de las Sombras de élite~
+@5206 = ~Druida de las Sombras~
+@5207 = ~Druida de las Sombras de Élite~
+
+//@14650 = ~Avec la mort de leur druides, les forces de la nature semblent se manifester contre vous.~ DEPRECATED ==> DO NOT TRANSLATE
+
+
+/* ------------------------- *
+ *  Butcheries of Sahuagins  *
+ * ------------------------- */
+@5600 = ~Rebelde novato~
+@5601 = ~Sacerdotisa novata~
+@5602 = ~Rebelde~           // = strref #46533 (BG2EE)
+@5603 = ~Rebelde de élite~
+@5604 = ~Sacerdotisa~      // = strref #49747 (BG2EE)
+@5605 = ~Sacerdotisa de élite~
+
+
+/* ------------------------- *
+ *  Butcheries of Skeletons  *
+ * ------------------------- */
+@5800 = ~¡Jajaja! ¡Nunca deberías haber llegado tan lejos!~ // former @14662
+@5801 = ~¡Alarma! ¡Los intrusos se atreven a entrar en nuestra guarida!~        // former @14663
+
+
+/* -------------------------------------------- *
+ *  More enemies scattered throughout the game  *
+ * -------------------------------------------- */
+@8000 = ~¡QUIÉN SE ATREVE A PERTURBAR MI DESCANSO!~
+@8001 = ~¡MÁS AVENTUREROS VIENEN A ROBAR MI TESORO!~
+@8002 = ~¡OS EXTERMINARÉ A TODOS! ¡TEMBLARÉIS BAJO MI PODER!~
+@8003 = ~DrAzTiK~
+
+
+/* --------------------------- *
+ *  Shared by many components  *
+ * --------------------------- */
+@14660 = ~¡Pobre tonto, somos más de los que crees!~
+@14661 = ~Los enemigos aparecen por todas partes!~
+@14664 = ~¡Intrusos en la guarida del amo! ¡Matalos a todos!~
+@14665 = ~¡La Señora Bodhi ha decidido ponerte a prueba, hijo de Bhaal!~
+@14666 = ~¡Este lugar será tu tumba!~
+
